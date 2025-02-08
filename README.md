@@ -13,21 +13,21 @@ I'm a master’s student in Urban Spatial Analytics at the University of Pennsyl
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="https://icongr.am/simple/r.svg?size=128&color=5d5d5d&colored=false"  title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/simple/python.svg?size=128&color=5d5d5d&colored=false" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/quarto.svg?color=39729E" title="Quarto" alt="Quarto" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/simple/markdown.svg?size=128&color=5d5d5d&colored=false" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/arcgis.svg" title="ArcGIS" alt="ArcGIS" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/simple/qgis.svg?size=128&color=5d5d5d&colored=false" title="QGIS"  alt="QGIS" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/simple/visualstudiocode.svg?size=128&color=5d5d5d&colored=false" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/simple/jupyter.svg?size=128&color=5d5d5d&colored=false" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/simple/github.svg?size=128&color=5d5d5d&colored=false" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/simple/slack.svg?size=128&color=5d5d5d&colored=false" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/simple/notion.svg?size=128&color=5d5d5d&colored=false" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/simple/adobephotoshop.svg?size=128&color=5d5d5d&colored=false" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/simple/rhinoceros.svg?size=128&color=5d5d5d&colored=false" title="Rhino"  alt="Rhino" width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/simple/postgresql.svg?size=128&color=5d5d5d&colored=false" title="Postgres" alt="Postgres " width="40" height="40"/>&nbsp;
-  <img src="https://icongr.am/simple/googleearth.svg?size=128&color=5d5d5d&colored=false" title="Google Earth" alt="Google Earth" width="40" height="40"/>
+  <img src="https://icongr.am/simple/r.svg?size=128&color=276DC3&colored=false"  title="R" alt="R" width="30" height="30"/>&nbsp;
+  <img src="https://icongr.am/simple/python.svg?size=128&color=3776AB&colored=false" title="Python" alt="Python" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/quarto.svg" title="Quarto" alt="Quarto" width="30" height="30"/>&nbsp;
+  <img src="https://icongr.am/simple/markdown.svg?size=128&color=000000&colored=false" title="Markdown" alt="Markdown" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/arcgis.svg" title="ArcGIS" alt="ArcGIS" width="30" height="30"/>&nbsp;
+  <img src="https://icongr.am/simple/qgis.svg?size=128&color=589632&colored=false" title="QGIS"  alt="QGIS" width="30" height="30"/>&nbsp;
+  <img src="https://icongr.am/simple/visualstudiocode.svg?size=128&color=56AEED&colored=false" title="VS Code" alt="VS Code" width="30" height="30"/>&nbsp;
+  <img src="https://icongr.am/simple/jupyter.svg?size=128&color=F37626&colored=false" title="Jupyter" alt="Jupyter" width="30" height="30"/>&nbsp;
+  <img src="https://icongr.am/simple/github.svg?size=128&color=181717&colored=false" title="GitHub" alt="GitHub" width="30" height="30"/>&nbsp;
+  <img src="https://icongr.am/simple/slack.svg?size=128&color=4A154B&colored=false" title="Slack" alt="Slack" width="30" height="30"/>&nbsp;
+  <img src="https://icongr.am/simple/notion.svg?size=128&color=000000&colored=false" title="Notion" alt="Notion" width="30" height="30"/>&nbsp;
+  <img src="https://icongr.am/simple/adobephotoshop.svg?size=128&color=5d5d5d&colored=false" title="Photoshop" alt="Photoshop" width="30" height="30"/>&nbsp;
+  <img src="https://icongr.am/simple/rhinoceros.svg?size=128&color=801010&colored=false" title="Rhino"  alt="Rhino" width="30" height="30"/>&nbsp;
+  <img src="https://icongr.am/simple/postgresql.svg?size=128&color=4169E1&colored=false" title="Postgres" alt="Postgres " width="30" height="30"/>&nbsp;
+  <img src="https://icongr.am/simple/googleearth.svg?size=128&color=4285F4&colored=false" title="Google Earth" alt="Google Earth" width="30" height="30"/>
 </p>
 
 <br>
