@@ -4,7 +4,7 @@ I'm a master’s student in Urban Spatial Analytics at the University of Pennsyl
 
 <center>
   
-## Tools
+### Tools
   
 <div>
   <img src="https://icongr.am/simple/r.svg?size=128&color=5d5d5d&colored=false"  title="R" alt="R" width="40" height="40"/>&nbsp;
@@ -23,6 +23,7 @@ I'm a master’s student in Urban Spatial Analytics at the University of Pennsyl
   <img src="https://icongr.am/simple/postgresql.svg?size=128&color=5d5d5d&colored=false" title="Postgres" alt="Postgres " width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/simple/googleearth.svg?size=128&color=5d5d5d&colored=false" title="Google Earth" alt="Google Earth" width="40" height="40"/>
 </div>
+
 </center>
 
 <br>
