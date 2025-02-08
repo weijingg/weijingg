@@ -2,8 +2,9 @@
 
 I'm a master’s student in Urban Spatial Analytics at the University of Pennsylvania with a background in environmental research. I love maps and finding new ways to create pretty data visualisations. I love to collect rocks too 🪨 See more of my projects showcased in my [portfolio](https://weijingg.github.io/portfolio-wja/)!
 
-### Tools
 <p align="center">
+  
+### Tools
   <img src="https://icongr.am/simple/r.svg?size=128&color=5d5d5d&colored=false"  title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/simple/python.svg?size=128&color=5d5d5d&colored=false" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/quarto.svg" title="Quarto" alt="Quarto" width="40" height="40"/>&nbsp;
@@ -19,6 +20,7 @@ I'm a master’s student in Urban Spatial Analytics at the University of Pennsyl
   <img src="https://icongr.am/simple/rhinoceros.svg?size=128&color=5d5d5d&colored=false" title="Rhino"  alt="Rhino" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/simple/postgresql.svg?size=128&color=5d5d5d&colored=false" title="Postgres" alt="Postgres " width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/simple/googleearth.svg?size=128&color=5d5d5d&colored=false" title="Google Earth" alt="Google Earth" width="40" height="40"/>
+
 </p>
 
 <br>
