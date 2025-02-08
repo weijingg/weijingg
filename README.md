@@ -14,7 +14,7 @@ I'm a master’s student in Urban Spatial Analytics at the University of Pennsyl
 - [Lake behaviour](https://doi.org/10.1016/j.jhydrol.2022.128574)
 - [Dams in the Mekong](https://doi.org/10.5194/essd-16-1209-2024)
 
-<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=weijingg&hide_border=true&border_radius=&card_width=690&card_height=220&background=F9F5F1&ring=E6A1A8&stroke=DFD7CA&fire=E6A1A8&currStreakNum=495057&sideNums=495057&currStreakLabel=E6A1A8&sideLabels=E6A1A8&dates=E6A1A8" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="center" img width="100%" src="https://streak-stats.demolab.com?user=weijingg&hide_border=true&border_radius=&card_width=690&card_height=220&background=F9F5F1&ring=E6A1A8&stroke=DFD7CA&fire=E6A1A8&currStreakNum=495057&sideNums=495057&currStreakLabel=E6A1A8&sideLabels=E6A1A8&dates=E6A1A8" alt="GitHub Streak" /></a>
 
 <!--
 
