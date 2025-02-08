@@ -1,3 +1,5 @@
+<center>
+  
 ![banner](https://github.com/user-attachments/assets/2471f730-4c2b-41c8-9c8e-1444eb8d34d1)
 
 I'm a master’s student in Urban Spatial Analytics at the University of Pennsylvania with a background in environmental research. I love maps and finding new ways to create pretty data visualisations. I love to collect rocks too 🪨 See more of my projects showcased in my [portfolio](https://weijingg.github.io/portfolio-wja/)!
@@ -14,7 +16,9 @@ I'm a master’s student in Urban Spatial Analytics at the University of Pennsyl
 - [Lake behaviour](https://doi.org/10.1016/j.jhydrol.2022.128574)
 - [Dams in the Mekong](https://doi.org/10.5194/essd-16-1209-2024)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=weijingg&theme=dawnfox&hide_border=true&card_width=800&card_height=300&background=F9F5F1&ring=E6A1A8&stroke=DFD7CA&fire=E6A1A8&currStreakNum=495057&sideNums=495057&currStreakLabel=E6A1A8&sideLabels=E6A1A8&dates=E6A1A8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=weijingg&theme=dawnfox&hide_border=true&card_width=690&card_height=250&background=F9F5F1&ring=E6A1A8&stroke=DFD7CA&fire=E6A1A8&currStreakNum=495057&sideNums=495057&currStreakLabel=E6A1A8&sideLabels=E6A1A8&dates=E6A1A8)](https://git.io/streak-stats)
+
+</center>
 
 <!--
 
