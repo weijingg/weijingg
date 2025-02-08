@@ -15,7 +15,7 @@ I'm a master’s student in Urban Spatial Analytics at the University of Pennsyl
 <p align="center">
   <img src="https://icongr.am/simple/r.svg?size=128&color=5d5d5d&colored=false"  title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/simple/python.svg?size=128&color=5d5d5d&colored=false" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/quarto.svg" title="Quarto" alt="Quarto" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/quarto.svg?color=39729E" title="Quarto" alt="Quarto" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/simple/markdown.svg?size=128&color=5d5d5d&colored=false" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/arcgis.svg" title="ArcGIS" alt="ArcGIS" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/simple/qgis.svg?size=128&color=5d5d5d&colored=false" title="QGIS"  alt="QGIS" width="40" height="40"/>&nbsp;
