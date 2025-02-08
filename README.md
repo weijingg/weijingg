@@ -1,4 +1,5 @@
 ## Hi there 👋
+![banner](https://github.com/user-attachments/assets/2471f730-4c2b-41c8-9c8e-1444eb8d34d1)
 
 <!--
 **weijingg/weijingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
