@@ -2,6 +2,11 @@
 
 I'm a master’s student in Urban Spatial Analytics at the University of Pennsylvania with a background in environmental research. I love maps and finding new ways to create pretty data visualisations. I love to collect rocks too 🪨 See more of my projects showcased in my [portfolio](https://weijingg.github.io/portfolio-wja/)!
 
+<h3 align="center">Skills</h3>
+<center>
+  Geospatial data analysis and visualisation | Remote sensing and environmental research
+</center>
+
 <h3 align="center">Tools</h3>
 
 <p align="center">
