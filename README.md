@@ -2,31 +2,23 @@
 
 I'm a master’s student in Urban Spatial Analytics at the University of Pennsylvania with a background in environmental research. I love maps and finding new ways to create pretty data visualisations. I love to collect rocks too 🪨 See more of my projects showcased in my [portfolio](https://weijingg.github.io/portfolio-wja/)!
 
-<style>
-  .tools-container {
-    text-align: center;
-  }
-</style>
-
-<div class="tools-container">
-  <h3>Tools</h3>
-  <div>
-    <img src="https://icongr.am/simple/r.svg?size=128&color=5d5d5d&colored=false"  title="R" alt="R" width="40" height="40"/>&nbsp;
-    <img src="https://icongr.am/simple/python.svg?size=128&color=5d5d5d&colored=false" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/quarto.svg" title="Quarto" alt="Quarto" width="40" height="40"/>&nbsp;
-    <img src="https://icongr.am/simple/markdown.svg?size=128&color=5d5d5d&colored=false" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/arcgis.svg" title="ArcGIS" alt="ArcGIS" width="40" height="40"/>&nbsp;
-    <img src="https://icongr.am/simple/qgis.svg?size=128&color=5d5d5d&colored=false" title="QGIS"  alt="QGIS" width="40" height="40"/>&nbsp;
-    <img src="https://icongr.am/simple/visualstudiocode.svg?size=128&color=5d5d5d&colored=false" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-    <img src="https://icongr.am/simple/jupyter.svg?size=128&color=5d5d5d&colored=false" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-    <img src="https://icongr.am/simple/github.svg?size=128&color=5d5d5d&colored=false" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-    <img src="https://icongr.am/simple/slack.svg?size=128&color=5d5d5d&colored=false" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
-    <img src="https://icongr.am/simple/notion.svg?size=128&color=5d5d5d&colored=false" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-    <img src="https://icongr.am/simple/adobephotoshop.svg?size=128&color=5d5d5d&colored=false" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-    <img src="https://icongr.am/simple/rhinoceros.svg?size=128&color=5d5d5d&colored=false" title="Rhino"  alt="Rhino" width="40" height="40"/>&nbsp;
-    <img src="https://icongr.am/simple/postgresql.svg?size=128&color=5d5d5d&colored=false" title="Postgres" alt="Postgres " width="40" height="40"/>&nbsp;
-    <img src="https://icongr.am/simple/googleearth.svg?size=128&color=5d5d5d&colored=false" title="Google Earth" alt="Google Earth" width="40" height="40"/>
-  </div>
+### Tools
+<div>
+  <img src="https://icongr.am/simple/r.svg?size=128&color=5d5d5d&colored=false"  title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/python.svg?size=128&color=5d5d5d&colored=false" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/quarto.svg" title="Quarto" alt="Quarto" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/markdown.svg?size=128&color=5d5d5d&colored=false" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/arcgis.svg" title="ArcGIS" alt="ArcGIS" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/qgis.svg?size=128&color=5d5d5d&colored=false" title="QGIS"  alt="QGIS" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/visualstudiocode.svg?size=128&color=5d5d5d&colored=false" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/jupyter.svg?size=128&color=5d5d5d&colored=false" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/github.svg?size=128&color=5d5d5d&colored=false" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/slack.svg?size=128&color=5d5d5d&colored=false" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/notion.svg?size=128&color=5d5d5d&colored=false" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/adobephotoshop.svg?size=128&color=5d5d5d&colored=false" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/rhinoceros.svg?size=128&color=5d5d5d&colored=false" title="Rhino"  alt="Rhino" width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/postgresql.svg?size=128&color=5d5d5d&colored=false" title="Postgres" alt="Postgres " width="40" height="40"/>&nbsp;
+  <img src="https://icongr.am/simple/googleearth.svg?size=128&color=5d5d5d&colored=false" title="Google Earth" alt="Google Earth" width="40" height="40"/>
 </div>
 
 <br>
