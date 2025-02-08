@@ -1,7 +1,7 @@
 ![banner](https://github.com/user-attachments/assets/2471f730-4c2b-41c8-9c8e-1444eb8d34d1)
 
 <p align="center">
-I'm a master’s student in Urban Spatial Analytics at the University of Pennsylvania with a background in environmental research. I love maps and finding new ways to create pretty data visualisations. I love to collect rocks too 🪨 See more of my projects showcased in my [portfolio](https://weijingg.github.io/portfolio-wja/)!
+I'm a master’s student in Urban Spatial Analytics at the University of Pennsylvania with a background in environmental research. I love maps and finding new ways to create pretty data visualisations. I love to collect rocks too 🪨 See more of my projects showcased in my <a href="https://weijingg.github.io/portfolio-wja/" target="_blank">portfolio</a>!
 </p>
 
 <h3 align="center">Skills</h3>
