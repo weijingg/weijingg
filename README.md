@@ -24,7 +24,7 @@ I'm a master’s student in Urban Spatial Analytics at the University of Pennsyl
   <img src="https://icongr.am/simple/github.svg?size=128&color=181717&colored=false" title="GitHub" alt="GitHub" width="30" height="30"/>&nbsp;
   <img src="https://icongr.am/simple/slack.svg?size=128&color=4A154B&colored=false" title="Slack" alt="Slack" width="30" height="30"/>&nbsp;
   <img src="https://icongr.am/simple/notion.svg?size=128&color=000000&colored=false" title="Notion" alt="Notion" width="30" height="30"/>&nbsp;
-  <img src="https://icongr.am/simple/adobephotoshop.svg?size=128&color=5d5d5d&colored=false" title="Photoshop" alt="Photoshop" width="30" height="30"/>&nbsp;
+  <img src="https://icongr.am/simple/adobephotoshop.svg?size=128&color=061732&colored=false" title="Photoshop" alt="Photoshop" width="30" height="30"/>&nbsp;
   <img src="https://icongr.am/simple/rhinoceros.svg?size=128&color=801010&colored=false" title="Rhino"  alt="Rhino" width="30" height="30"/>&nbsp;
   <img src="https://icongr.am/simple/postgresql.svg?size=128&color=4169E1&colored=false" title="Postgres" alt="Postgres " width="30" height="30"/>&nbsp;
   <img src="https://icongr.am/simple/googleearth.svg?size=128&color=4285F4&colored=false" title="Google Earth" alt="Google Earth" width="30" height="30"/>
