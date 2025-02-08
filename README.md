@@ -2,16 +2,12 @@
 
 I'm a master’s student in Urban Spatial Analytics at the University of Pennsylvania with a background in environmental research. I love maps and finding new ways to create pretty data visualisations. I love to collect rocks too 🪨 See more of my projects showcased in my [portfolio](https://weijingg.github.io/portfolio-wja/)!
 
-### 💪🏼 Skills
-- R, Python, MATLAB, Quarto, GIS
-- Geospatial data analysis and visualisation
-- Remote sensing and environmental research
-- I'm fluent in English, Chinese, and Japanese
-- Currently learning SQL
-
+<center>
+## Tools
 <div>
   <img src="https://icongr.am/simple/r.svg?size=128&color=5d5d5d&colored=false"  title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/simple/python.svg?size=128&color=5d5d5d&colored=false" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/quarto.svg" title="Quarto" alt="Quarto" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/simple/markdown.svg?size=128&color=5d5d5d&colored=false" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/arcgis.svg" title="ArcGIS" alt="ArcGIS" width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/simple/qgis.svg?size=128&color=5d5d5d&colored=false" title="QGIS"  alt="QGIS" width="40" height="40"/>&nbsp;
@@ -25,6 +21,7 @@ I'm a master’s student in Urban Spatial Analytics at the University of Pennsyl
   <img src="https://icongr.am/simple/postgresql.svg?size=128&color=5d5d5d&colored=false" title="Postgres" alt="Postgres " width="40" height="40"/>&nbsp;
   <img src="https://icongr.am/simple/googleearth.svg?size=128&color=5d5d5d&colored=false" title="Google Earth" alt="Google Earth" width="40" height="40"/>
 </div>
+</center>
 
 <a href="https://git.io/streak-stats"><img align="center" img width="100%" src="https://streak-stats.demolab.com?user=weijingg&hide_border=true&border_radius=&card_width=690&card_height=220&background=F9F5F1&ring=E6A1A8&stroke=DFD7CA&fire=E6A1A8&currStreakNum=495057&sideNums=495057&currStreakLabel=E6A1A8&sideLabels=E6A1A8&dates=E6A1A8" alt="GitHub Streak" /></a>
 
